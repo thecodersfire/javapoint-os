@@ -24,3 +24,9 @@ The `javapoint.svg` wallpaper is original. Javapoint OS is an independent Ubuntu
 
 See [FEATURES.md](FEATURES.md) for three local tools included for Java development.
 
+
+The installer also includes three purpose-specific applications: **LibreOffice, GNOME Calendar, KeePassXC**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Wireshark, KiCad, Arduino IDE 2**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **DB Browser for SQLite, Wireshark, KeePassXC**. See [FEATURES.md](FEATURES.md).

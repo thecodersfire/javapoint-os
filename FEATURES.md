@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/javapoint-os-workspace features/javapoint-os-plan features/javapoint-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for Java development:
+
+1. **DB Browser for SQLite** — org.sqlitebrowser.sqlitebrowser
+2. **Wireshark** — org.wireshark.Wireshark
+3. **KeePassXC** — org.keepassxc.KeePassXC
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.
